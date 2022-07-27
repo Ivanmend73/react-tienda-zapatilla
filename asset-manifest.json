@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-tienda-zapatilla/static/css/main.8bbe882c.css",
+    "main.js": "/react-tienda-zapatilla/static/js/main.ec510db7.js",
+    "static/media/inicio.jpg": "/react-tienda-zapatilla/static/media/inicio.4a59ed5e033d863dc514.jpg",
+    "static/media/img011.jpg": "/react-tienda-zapatilla/static/media/img011.516d92a4a7c193c21914.jpg",
+    "static/media/img08.jpg": "/react-tienda-zapatilla/static/media/img08.81e412af83bbd5f7b0be.jpg",
+    "static/media/img07.jpg": "/react-tienda-zapatilla/static/media/img07.0132f5347c94f1da09f8.jpg",
+    "static/media/img10.jpg": "/react-tienda-zapatilla/static/media/img10.91365af89817c1fbb043.jpg",
+    "static/media/img02.jpg": "/react-tienda-zapatilla/static/media/img02.ed4b76a0c62ef811334d.jpg",
+    "static/media/img03.jpg": "/react-tienda-zapatilla/static/media/img03.475683e4016c25c0eda4.jpg",
+    "static/media/img06.jpg": "/react-tienda-zapatilla/static/media/img06.9a6f6c09fde40fc6c1fe.jpg",
+    "static/media/img09.jpg": "/react-tienda-zapatilla/static/media/img09.2672b0a23d6bfee74202.jpg",
+    "static/media/img05.jpg": "/react-tienda-zapatilla/static/media/img05.b8381f5f7713535eb4ec.jpg",
+    "static/media/Nike.jpg": "/react-tienda-zapatilla/static/media/Nike.5eedf5f7d339d137435a.jpg",
+    "static/media/img04.jpg": "/react-tienda-zapatilla/static/media/img04.faae85890c73315ec3fc.jpg",
+    "static/media/img01.jpg": "/react-tienda-zapatilla/static/media/img01.b982c5d15cea7c86747f.jpg",
+    "index.html": "/react-tienda-zapatilla/index.html",
+    "main.8bbe882c.css.map": "/react-tienda-zapatilla/static/css/main.8bbe882c.css.map",
+    "main.ec510db7.js.map": "/react-tienda-zapatilla/static/js/main.ec510db7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bbe882c.css",
+    "static/js/main.ec510db7.js"
+  ]
+}
